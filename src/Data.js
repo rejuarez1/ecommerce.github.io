@@ -55,4 +55,32 @@ let shopItemsData = [
     desc: "A low sofa that can be used as a bed.",
     img: "images/img-8.jpg",
   },
+  {
+    id: "jfhgbvncba",
+    name: "Dining Table Set",
+    price: 1250,
+    desc: "A dining table with 6 chairs.",
+    img: "images/img-9.jpg",
+  },
+  {
+    id: "ioytrhnfed",
+    name: "Persion Rug",
+    price: 300,
+    desc: "A nice imported living room Persian rug.",
+    img: "images/img-10.jpg",
+  },
+  {
+    id: "wuefbncxihg",
+    name: "Oak Dresser",
+    price: 600,
+    desc: "A multi drawer dresser made from the finest oak.",
+    img: "images/img-11.jpg",
+  },
+  {
+    id: "thyfhclkj",
+    name: "Standing Mirror",
+    price: 350,
+    desc: "A standing mirror for full body reflection.",
+    img: "images/img-12.jpg",
+  },
 ];
