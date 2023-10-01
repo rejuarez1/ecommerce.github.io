@@ -3,7 +3,7 @@ let shopItemsData = [
     id: "jfhgbvnscs",
     name: "Office Chair",
     price: 150,
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    desc: "An comfortable, ergonomic chair for getting your office work done.",
     img: "images/img-1.jpg",
   },
   {
@@ -17,7 +17,7 @@ let shopItemsData = [
     id: "wuefbncxbsn",
     name: "Sectional Couch",
     price: 400,
-    desc: "An upholstered furniture that consists of two or more joined sections for sitting.",
+    desc: "A nice sectional couch for resting or laying down on.",
     img: "images/img-3.jpg",
   },
   {
