@@ -27,4 +27,32 @@ let shopItemsData = [
     desc: "A low table designed to be placed in a sitting area for convenient support of small items.",
     img: "images/img-4.jpg",
   },
+  {
+    id: "jfhgbvnabc",
+    name: "Floor Lamp",
+    price: 50,
+    desc: "A tall lamp designed to stand on the floor.",
+    img: "images/img-5.jpg",
+  },
+  {
+    id: "ioytrhndef",
+    name: "Recliner",
+    price: 350,
+    desc: "An upholstered armchair that can be tilted backward.",
+    img: "images/img-6.jpg",
+  },
+  {
+    id: "wuefbncxghi",
+    name: "Stool",
+    price: 40,
+    desc: "A seat great for sitting at the counter.",
+    img: "images/img-7.jpg",
+  },
+  {
+    id: "thyfhcjkl",
+    name: "Futon",
+    price: 250,
+    desc: "A low sofa that can be used as a bed.",
+    img: "images/img-8.jpg",
+  },
 ];
